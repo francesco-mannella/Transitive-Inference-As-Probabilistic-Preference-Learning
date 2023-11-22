@@ -6,5 +6,4 @@ This repository contains the code implementation for the paper  "Transitive Infe
 
 [TransitiveInference.ipynb](TransitiveInference.ipynb)  contains the python code for the first simulation which explores the decision dynamics of a well-trained Mallows ranking model, replicating key features of TI observed in human and animal studies and  the second simulation demonstrates the learning dynamics of the model when confronted with a novel TI task, showcasing its ability to connect previously separate rankings.
 
-The third simulation provides insights into the neural-like codes harnessed by the model to perform TI.
-
+[MallowsNN.ipynb](MallowsNN.ipynb) contains the python code reguadsing the third simulation provides insights into the neural-like codes harnessed by the model to perform TI.
